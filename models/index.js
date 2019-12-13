@@ -40,4 +40,3 @@ db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 
 module.exports = db;
-© 2019 GitHub, Inc.
